@@ -1,0 +1,6 @@
+pandas
+numpy
+googletrans
+spellchecker
+sentence-transformers
+torch
